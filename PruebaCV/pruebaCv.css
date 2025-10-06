@@ -1,0 +1,39 @@
+.cabecera {
+
+    height: 15%;
+    width: 100%;
+    background-color: #979797;
+    position: absolute;
+
+
+}
+.foto {
+    background-color: black;
+    border-radius: 50%;
+    border-color: #E0C265;
+    border-style: solid;
+    width: 10%;
+    padding-top: 10%;
+    position: fixed;
+    z-index: 1;
+    margin: 1%;
+}
+.contenedor {
+    position: absolute;
+    margin-top: 15%;
+    display: block;
+    width: 100%;
+
+}
+.cajetilla {
+    width: 10%;
+    text-align: center;
+
+    background-color: #979797;
+    position: relative;
+}
+body {
+    height: 100%;
+    margin-top: 0;
+    margin-left: 0;
+}
