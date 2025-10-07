@@ -10,7 +10,7 @@ function turnOff () {
 
     document.getElementById('myImage').src='images/pic_bulboff.gif';
     document.getElementById('letrero').innerHTML="ITS TURNED OF AGAIN :_(";
-    document.querySelector('.plon').innerHTML="ITS TURNED OF AGAIN :_(";
+ 
     document.body.style.backgroundColor = "black";
     document.body.style.color = "yellow";
 }
